@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanchachra&label=Profile%20views&color=0e75b6&style=flat" alt="aryanchachra" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanchachra" alt="aryanchachra" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/aryanchachra" target="blank"><img src="https://img.shields.io/twitter/follow/aryanchachra?logo=twitter&style=for-the-badge" alt="aryanchachra" /></a> </p>
+
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://aryanchachra.github.io/AryanChachra/](https://aryanchachra.github.io/AryanChachra/)
+- 💬 Ask me about **Python, App Dev, Cloud**
+
+- 📫 How to reach me **aryanchachra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,12 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanchachra&show_icons=true&locale=en" alt="aryanchachra" /></p>
 
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanchachra&" alt="aryanchachra" /></p>
