@@ -1,21 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17158
-Fork on GitHub
-4904
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Aryan Chachra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanchachra&label=Profile%20views&color=0e75b6&style=flat" alt="aryanchachra" /> </p>
 
@@ -38,21 +22,6 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanchachra&show_icons=true&locale=en" alt="aryanchachra" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
 More
 Github
 Releases
