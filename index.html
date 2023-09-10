@@ -18,126 +18,104 @@
         body {
             background-color: rgb(113, 10, 147);
             color: white;
-            font-family: 'Poppins', sans-serif;
+            font-family: 'poppins', sans-serif;
         }
-
-        nav {
+        nav{
             display: flex;
-            justify-content: space-between;
+            justify-content: space-around;
             align-items: center;
             height: 80px;
             background-color: rgb(132, 30, 166);
         }
-
-        nav ul {
+        nav ul{
             display: flex;
+            justify-content: center;
+        }
+        nav ul li{
             list-style: none;
+            margin: 0 23px;
         }
-
-        nav ul li {
-            margin: 0 10px;
-        }
-
-        nav ul li a {
+        nav ul li a{
             text-decoration: none;
             color: white;
         }
-
-        nav ul li a:hover {
-            color: rgb(9, 235, 235);
+        nav ul li a:hover{
+            color:rgb(9, 235, 235);
+            font-size: 1.05rem;
         }
-
-        main hr {
+        main hr{
             border: 0;
             background: aqua;
             height: 1.2px;
-            margin: 20px 10%;
-        }
+            margin: 40px 84px;
 
-        .left {
+        }
+        .left{
             font-size: 2rem;
         }
-
-        .firstSection {
+        .firstSection{
             display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin: 40px 0;
+            justify-content: space-around;
+            margin: 140px 0;
         }
-
-        .leftSection {
+        .firstSection > div{
+            width: 30%;
+        }
+        .leftSection{
             font-size: 1.7rem;
-            text-align: center;
+            margin: 30px 0;
         }
-
-        .rightSection img {
+        .rightSection img{
             width: 245px;
             height: 260px;
             border-radius: 50%;
         }
-
-        .purple {
+        .purple{
             color: rgb(195, 217, 117);
         }
-
-        #element {
+        #element{
             color: rgb(211, 225, 118)
         }
-
-        .secondSection {
-            margin: 20px 10%;
+        .secondSection{
+            margin: auto;
+            max-width: 80vw;
+            height: 80vh;
         }
-
-        .secondSection h1 {
+        .secondSection h1{
             font-size: 2rem;
         }
-
-        .education h3,
-        .education p {
+        .secondSection div{
             margin: 0;
             margin-bottom: 0.5rem;
-            padding: 0.5rem 0;
+            margin-bottom: 2rem;
+            padding: 2rem;
+
+        }
+        .secondSection h3{
+            color:rgb(195, 217, 117);
+            margin: auto;
+            padding-top: 20px;
         }
 
-        .thirdSection {
-            margin: 20px 10%;
+        .thirdSection{
+            margin: auto;
+            max-width: 80vw;
+            height: 80vh;
         }
-
-        .thirdSection h1 {
+        .thirdSection h1{
             font-size: 2rem;
         }
-
-        .box {
+        .thirdSection .box{
+            background: white;
+            height: 2px;
+            margin: 56px 0;
             display: flex;
-            justify-content: space-between;
-            margin: 20px 0;
-            padding: 2rem 0;
         }
-
-        .vertical {
+        .thirdSection .vertical{
+            height: 95px;
             width: 1px;
             background-color: white;
-            margin: 0 10%;
-        }
-
-        @media screen and (max-width: 768px) {
-            .firstSection {
-                flex-direction: column;
-                text-align: center;
-            }
-
-            .rightSection img {
-                margin-top: 20px;
-            }
-
-            .secondSection,
-            .thirdSection {
-                margin: 20px 5%;
-            }
-
-            .vertical {
-                margin: 0 5%;
-            }
+            margin: 0 100px;
         }
     </style>
 </head>
@@ -166,7 +144,7 @@
                 <span id="element"></span>
             </div>
             <div class="rightSection">
-                <img src="mywb.png" alt="My Pic">
+                <img  src="mywb.png" alt="My Pic">
             </div>
         </section>
         <hr>
@@ -175,11 +153,11 @@
             <h1>Education</h1>
             <div class="education">
                 <h3>Bachelor of Technology</h3>
-                <p><strong>Chameli Devi Group of Institutions</strong></p>
+                <p><strong>Chameli Devi Group of Isntitutions</strong></p>
                 <p><strong>Artificial Intelligence and Data Science</strong></p>
                 <p><strong>Passing Year:</strong> 2025</p>
                 <p><strong>CGPA:</strong> 7 (As of now)</p>
-
+                
                 <h3>12th (Maharashtra Board)</h3>
                 <p><strong>H.B.Girme Junior College</strong></p>
                 <p><strong>Passing Year:</strong> 2021</p>
@@ -190,6 +168,7 @@
                 <p><strong>Passing Year:</strong> 2019</p>
                 <p><strong>Percentage:</strong> 73%</p>
             </div>
+                
         </section>
         <hr>
         <section class="thirdSection">
