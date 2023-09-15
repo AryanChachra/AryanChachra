@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: rgb(113, 10, 147);
+    color: white;
+    font-family: 'poppins', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(132, 30, 166);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: rgb(9, 235, 235);
+    font-size: 1.05rem;
+}
+
+main hr {
+    border: 0;
+    background: aqua;
+    height: 1.2px;
+    margin: 40px 84px;
+
+}
+
+.left {
+    font-size: 2rem;
+}
+
+.firstSection {
+    display: flex;
+    justify-content: space-around;
+    margin: 140px 0;
+}
+
+.firstSection>div {
+    width: 30%;
+}
+
+.leftSection {
+    font-size: 1.7rem;
+    margin: 30px 0;
+}
+
+.rightSection img {
+    width: 245px;
+    height: 260px;
+    border-radius: 50%;
+}
+
+.purple {
+    color: rgb(195, 217, 117);
+}
+
+
+
+#element {
+    color: rgb(211, 225, 118)
+}
+
+.about {
+    margin: auto;
+    max-width: 80vw;
+    height: 80vh;
+}
+
+.about h1 {
+    position: relative;
+    left: 380px;
+    color: aqua;
+    font-size: 3rem;
+    justify-content: center;
+}
+.about h2 {
+    color: bisque;
+}
+
+.desc {
+    width: 515px;
+    font-size: 1.2rem;
+    margin: 30px 0;
+}
+
+.imginabout {
+    width: 245px;
+    height: 260px;
+    position: relative;
+    left: 755px;
+    top: -390px;
+}
+
+.secondSection {
+    margin: auto;
+    max-width: 80vw;
+    height: 80vh;
+}
+
+.secondSection h1 {
+    font-size: 2rem;
+}
+
+.secondSection div {
+    margin: 0;
+    margin-bottom: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+
+}
+
+.secondSection h3 {
+    color: rgb(195, 217, 117);
+    margin: auto;
+    padding-top: 20px;
+}
+
+.thirdSection {
+    margin: auto;
+    max-width: 80vw;
+    height: 80vh;
+}
+
+.thirdSection h1 {
+    font-size: 2rem;
+}
+
+.thirdSection .box {
+    background: white;
+    height: 2px;
+    margin: 56px 0;
+    display: flex;
+}
+
+.thirdSection .vertical {
+    height: 95px;
+    width: 1px;
+    background-color: white;
+    margin: 0 100px;
+}
+
+.image-top {
+    width: 95px;
+    position: relative;
+    top: -80px;
+    left: -45px;
+}
+
+.vertical-title {
+    color: rgb(195, 217, 117);
+    position: relative;
+    font-weight: bold;
+    left: -17px;
+    top: -10px;
+}
+
+.vertical-text {
+    position: relative;
+    width: 208px;
+    left: -76px;
+    top: -11px;
+}
+
+.vertical-title1 {
+    color: rgb(195, 217, 117);
+    position: relative;
+    font-weight: bold;
+    left: -62px;
+    top: -10px;
+    width: 213px;
+}
+
+.vertical-text1 {
+    position: relative;
+    width: 508px;
+    left: -76px;
+    top: -11px;
+}
