@@ -9,116 +9,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            background-color: rgb(113, 10, 147);
-            color: white;
-            font-family: 'poppins', sans-serif;
-        }
-        nav{
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            height: 80px;
-            background-color: rgb(132, 30, 166);
-        }
-        nav ul{
-            display: flex;
-            justify-content: center;
-        }
-        nav ul li{
-            list-style: none;
-            margin: 0 23px;
-        }
-        nav ul li a{
-            text-decoration: none;
-            color: white;
-        }
-        nav ul li a:hover{
-            color:rgb(9, 235, 235);
-            font-size: 1.05rem;
-        }
-        main hr{
-            border: 0;
-            background: aqua;
-            height: 1.2px;
-            margin: 40px 84px;
-
-        }
-        .left{
-            font-size: 2rem;
-        }
-        .firstSection{
-            display: flex;
-            justify-content: space-around;
-            margin: 140px 0;
-        }
-        .firstSection > div{
-            width: 30%;
-        }
-        .leftSection{
-            font-size: 1.7rem;
-            margin: 30px 0;
-        }
-        .rightSection img{
-            width: 245px;
-            height: 260px;
-            border-radius: 50%;
-        }
-        .purple{
-            color: rgb(195, 217, 117);
-        }
-        #element{
-            color: rgb(211, 225, 118)
-        }
-        .secondSection{
-            margin: auto;
-            max-width: 80vw;
-            height: 80vh;
-        }
-        .secondSection h1{
-            font-size: 2rem;
-        }
-        .secondSection div{
-            margin: 0;
-            margin-bottom: 0.5rem;
-            margin-bottom: 2rem;
-            padding: 2rem;
-
-        }
-        .secondSection h3{
-            color:rgb(195, 217, 117);
-            margin: auto;
-            padding-top: 20px;
-        }
-
-        .thirdSection{
-            margin: auto;
-            max-width: 80vw;
-            height: 80vh;
-        }
-        .thirdSection h1{
-            font-size: 2rem;
-        }
-        .thirdSection .box{
-            background: white;
-            height: 2px;
-            margin: 56px 0;
-            display: flex;
-        }
-        .thirdSection .vertical{
-            height: 95px;
-            width: 1px;
-            background-color: white;
-            margin: 0 100px;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 
 <body>
     <header>
@@ -126,9 +19,9 @@
             <div class="left">Aryan's Portfolio</div>
             <div class="right">
                 <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/">About</a></li>
-                    <li><a href="/">Education</a></li>
+                    <li><a href="#firstSection">Home</a></li>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#edu">Education</a></li>
                     <li><a href="/">Projects</a></li>
                     <li><a href="/">Contact Me</a></li>
                 </ul>
@@ -137,27 +30,43 @@
     </header>
 
     <main>
-        <section class="firstSection">
+        <section class="firstSection" id="firstSection">
             <div class="leftSection">
                 Hi, my name is <span class="purple">Aryan Chachra</span>
                 <div>and I am a</div>
                 <span id="element"></span>
             </div>
             <div class="rightSection">
-                <img  src="mywb.png" alt="My Pic">
+                <img src="mywb.png" alt="My Pic">
             </div>
         </section>
         <hr>
-        <section class="secondSection">
+        <section class="about" id="about">
+            <h1 class="abouth">Know Who I'm</h1>
+            <div class="desc"><span class="gray">
+                    <h2>Greetings! I'm Aryan Chachra</h2>
+                </span><br>A Flutter developer with an
+                unwavering passion for data science. I'm also proud to serve as the GDSC (Google Developer Student
+                Clubs) CDGI Lead, a role that allows me to channel
+                my confidence and leadership skills into fostering a vibrant tech community. <br><br>
+                Aside from my roles as a Flutter developer and data science enthusiast, I'm also a dedicated avgeek.
+                Aviation has always been my greatest fascination, and its wonder continues to inspire me daily
+            </div>
+            <div class="imginabout">
+                <img src="fdicon.png" alt="fdicon">
+            </div>
+        </section>
+        <hr>
+        <section class="secondSection" id="edu">
             <img src="eduiconw.png" alt="edu">
-            <h1>Education</h1>
+            <h1 class="eduh">Education</h1>
             <div class="education">
                 <h3>Bachelor of Technology</h3>
-                <p><strong>Chameli Devi Group of Isntitutions</strong></p>
+                <p><strong>Chameli Devi Group of Institutions</strong></p>
                 <p><strong>Artificial Intelligence and Data Science</strong></p>
                 <p><strong>Passing Year:</strong> 2025</p>
-                <p><strong>CGPA:</strong> 7 (As of now)</p>
-                
+                <p><strong>CGPA:</strong> 7.0 (As of now)</p>
+
                 <h3>12th (Maharashtra Board)</h3>
                 <p><strong>H.B.Girme Junior College</strong></p>
                 <p><strong>Passing Year:</strong> 2021</p>
@@ -168,25 +77,18 @@
                 <p><strong>Passing Year:</strong> 2019</p>
                 <p><strong>Percentage:</strong> 73%</p>
             </div>
-                
+
         </section>
         <hr>
-        <section class="thirdSection">
-            <img src="wexpicon.png" alt="exp">
-            <h1>Work Experience</h1>
-            <div class="box">
-                <div class="vertical"></div>
-                <div class="vertical"></div>
-                <div class="vertical"></div>
-                <div class="vertical"></div>
-            </div>
+        <section class="projects">
+            <h1>Skills</h1>
         </section>
     </main>
     <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
     <script>
         var typed = new Typed('#element', {
-          strings: ['GDSC-CDGI Lead', 'Flutter Developer','Data Science Enthusiast.'],
-          typeSpeed: 50,
+            strings: ['GDSC-CDGI Lead', 'Flutter Developer', 'Data Science Enthusiast.'],
+            typeSpeed: 100,
         });
     </script>
 </body>
