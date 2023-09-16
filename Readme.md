@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, App Dev, Cloud**
 
-- 📫 How to reach me **aryanchachra@gmail.com**
+- 📫 How to reach me **aryanchachra1406@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
