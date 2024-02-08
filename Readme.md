@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanchachra&show_icons=true&locale=en&layout=compact" alt="aryanchachra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanchachra&show_icons=true&locale=en" alt="aryanchachra" /></p>
+
 
 
