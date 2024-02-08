@@ -26,7 +26,7 @@
 
 [![An image of @aryanchachra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanchachra)](https://holopin.io/@aryanchachra)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanchachra&show_icons=true&locale=en&layout=compact" alt="aryanchachra" /></p>
+
 
 
 
