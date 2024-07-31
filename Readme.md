@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDU1MG5zejdrMWkxdTE0YWkyN3VocWFhejJqaHBjM3NjbHphbnNjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QRkUDOgWiVcfoCDgoA/giphy.gif" alt="Cool Animation" style="margin-right: 20px;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" alt="Another Cool Animation" width="100" height="200" style="margin-left: 20px;"/>
+
 </div>
 
 
