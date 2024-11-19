@@ -40,12 +40,16 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanchachra&show_icons=true&locale=en&layout=compact" alt="aryanchachra" />
+  
+  <hr style="border: 0; border-top: 2px solid #3498db; width: 50%; margin: 20px 0;" />
+  
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/tall/65c52ab3323fd6becf1ba3db?variant=dark&roadmaps=flutter%2Cdatastructures-and-algorithms" alt="roadmap.sh" />
   </a>
-</div>
+</p>
+
 
 
 [![An image of @aryanchachra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanchachra)](https://holopin.io/@aryanchachra)
