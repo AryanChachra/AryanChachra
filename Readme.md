@@ -43,3 +43,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanchachra&show_icons=true&locale=en&layout=compact" alt="aryanchachra" /></p>
 
 [![An image of @aryanchachra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanchachra)](https://holopin.io/@aryanchachra)
+[![roadmap.sh](https://roadmap.sh/card/tall/65c52ab3323fd6becf1ba3db?variant=dark&roadmaps=flutter%2Cdatastructures-and-algorithms)](https://roadmap.sh)
