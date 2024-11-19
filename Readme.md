@@ -47,5 +47,13 @@
   </a>
 </div>
 
+<a href="https://github.com/aryanchachra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchachra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/aryanchachra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanchachra&repo=aryanchachra.github.io&theme=buefy" />
+</a>
+
+
 [![An image of @aryanchachra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanchachra)](https://holopin.io/@aryanchachra)
 
