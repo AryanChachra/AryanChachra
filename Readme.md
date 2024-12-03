@@ -40,14 +40,26 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-<table align="center">
+<table align="center" style="border:0px;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="aryanchachra" />
     </td>
     <td>
-      <div style="border-left: 1px solid #ccc; height: 100%;"></div>
+      <div></div>
     </td>
+     <td>
+      <div></div>
+     </td>
+       <td>
+      <div style="border-left: 1px solid #ccc; height: 100%;"></div>
+       </td>
+       <td>
+      <div></div>
+       </td>
+     <td>
+      <div></div>
+     </td>
     <td>
       <a href="https://roadmap.sh">
         <img src="https://roadmap.sh/card/tall/65c52ab3323fd6becf1ba3db?variant=dark&roadmaps=flutter%2Cdatastructures-and-algorithms" alt="roadmap.sh" />
