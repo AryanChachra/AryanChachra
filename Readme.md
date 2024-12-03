@@ -52,7 +52,7 @@
       <div></div>
      </td>
        <td>
-      <div style="border-left: 1px solid #ccc; height: 100%;"></div>
+      <div></div>
        </td>
        <td>
       <div></div>
