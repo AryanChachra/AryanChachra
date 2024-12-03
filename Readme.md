@@ -42,6 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanchachra&show_icons=true&locale=en&layout=compact" alt="aryanchachra" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="aryanchachra" />
   
   <hr style="border: 0; border-top: 2px solid #3498db; width: 50%; margin: 20px 0;" />
   
