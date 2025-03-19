@@ -41,8 +41,8 @@
 </p>
 
 
-      <a href="#"  target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="aryanchachra"/></a>
 
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="seaborn" width="40" height="40"/> </a>
 
 
 
