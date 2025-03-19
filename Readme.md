@@ -41,10 +41,13 @@
 </p>
 
 
-
-      <a href="" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="seaborn" width="40" height="40"/> </a>
-
-
+<table align="center" style="border:0px; border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="aryanchachra" />
+    </td>
+  </tr>
+</table>
 
 
 
