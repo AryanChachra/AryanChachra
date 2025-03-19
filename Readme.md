@@ -45,26 +45,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="aryanchachra" />
     </td>
-    <td>
-      <div></div>
-    </td>
-     <td>
-      <div></div>
-     </td>
-       <td>
-      <div></div>
-       </td>
-       <td>
-      <div></div>
-       </td>
-     <td>
-      <div></div>
-     </td>
-    <td>
-      <a href="https://roadmap.sh">
-        <img src="https://roadmap.sh/card/tall/65c52ab3323fd6becf1ba3db?variant=dark&roadmaps=flutter%2Cdatastructures-and-algorithms" alt="roadmap.sh" />
-      </a>
-    </td>
   </tr>
 </table>
 
