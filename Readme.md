@@ -4,15 +4,10 @@
 
 # 💫 About Me:
 👋 Hi there! I’m Aryan Chachra, a **B.Tech graduate specialized in Artificial Intelligence and Data Science**, currently working as a **Junior Software Engineer at Compumatrice Multimedia Pvt. Ltd.**
-
-🌟 I’m passionate about building scalable and user-centric applications, with hands-on experience in **Flutter, Firebase, FastAPI, and automation workflows using n8n**.  
+🌟 I’m passionate about developing AI-powered applications, combining machine learning, FastAPI, and automation workflows in n8n with robust mobile solutions built using Flutter and Firebase. 
 🚀 One of my key projects is **[Pawsitive](https://github.com/AryanChachra/pawsitive)** — a Flutter app that helps users adopt and donate pets seamlessly.
-
-🎯 I previously served as the **GDSC (Google Developer Student Clubs) Lead for 2023–2024**, where I led multiple initiatives and helped build a strong tech community.
-
-✈️ Outside of tech, I’m an avgeek who loves everything about aviation!
-
-💡 I’m always learning — recently upskilled in **agentic development, FastAPI, ML, and AWS** — and I love contributing to impactful, real-world projects.  
+🎯 I served as the **GDSC (Google Developer Student Clubs) Lead for 2023–2024**, where I led multiple initiatives and helped build a strong tech community.
+✈️ Outside of tech, I’m an avgeek who loves everything about aviation!  
 📫 Reach me at **aryanchachra1406@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/aryan-chachra-519927232/)**.
 
 <h3 align="left">Connect with me:</h3>
