@@ -7,8 +7,6 @@
 
 🌟 I’m passionate about developing AI-powered applications, combining machine learning, FastAPI, and automation workflows in n8n with robust mobile solutions built using Flutter and Firebase.
 
-🚀 One of my key projects is **[Pawsitive](https://github.com/AryanChachra/pawsitive)** — a Flutter app that helps users adopt and donate pets seamlessly.
-
 🎯 I served as the **GDSC (Google Developer Student Clubs) Lead for 2023–2024**, where I led multiple initiatives and helped build a strong tech community.
 
 ✈️ Outside of tech, I’m an avgeek who loves everything about aviation!
