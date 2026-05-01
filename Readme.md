@@ -65,9 +65,9 @@ Input → Reasoning → Decision → Execution → Feedback Loop
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aryanchachra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aryanchachra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanchachra&layout=pie" alt="aryanchachra" />
+  <img src="https://github-readme-stats-one-pi-16.vercel.app/api?username=aryanchachra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+  
+  <img src="https://github-readme-stats-one-pi-16.vercel.app/api/top-langs/?username=aryanchachra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
 </p>
 
 <p align="center">
