@@ -28,37 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### ✈️ SKYOPSHUB (Flagship)
-
-> Agentic AI system for aviation operations
-
-* Multi-agent architecture powered by **LLMs**
-* Intelligent scheduling for:
-
-  * Aircraft
-  * Pilots
-  * Cabin Crew
-  * Engineers
-* Prevents resource overuse & underutilization
-* Built with **FastAPI + real-time processing**
-* Focus: **automation, optimization, decision intelligence**
-
----
-
-### 🏥 CareConnect
-
-> Real-time hospital bed booking platform
-
-* 📱 Built full **Flutter mobile application**
-* 🔗 Integrated with **Django REST APIs**
-* 🌐 Web platform built with React (team)
-* ⚡ Clean UI + real-time interaction
-* 🧩 Demonstrates full-stack system collaboration
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / Backend / Systems
