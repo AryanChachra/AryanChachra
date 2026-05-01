@@ -42,7 +42,7 @@ Input → Reasoning → Decision → Execution → Feedback Loop
 ## 🧠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,aws,cpp,css,dart,django,docker,fastapi,firebase,flutter,gcp,git,github,html,js,jquery,mysql,opencv,php,postgres,postman,py,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=ai,androidstudio,aws,cpp,css,dart,django,docker,fastapi,firebase,flutter,gcp,git,github,html,js,jquery,mysql,opencv,php,postgres,postman,py,redis,supabase" />
 </p>
 
 <p align="center">
